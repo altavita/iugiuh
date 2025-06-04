@@ -1,0 +1,1 @@
+{"features": ["RSI", "MACD", "MACD_hist", "Signal_Line", "ATR", "Volatility", "NATR", "MOM", "ROC", "ADX", "PLUS_DI", "MINUS_DI", "OBV", "EMA_9", "EMA_21", "EMA_50", "EMA_200", "Bollinger_Upper", "Bollinger_Lower", "Bollinger_Middle", "BB_Width", "RSI_change", "Price_to_EMA50", "EMA_ratio", "Trend_Change", "Stochastic_K", "Stochastic_D", "CMF"]}

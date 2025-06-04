@@ -1,0 +1,1 @@
+{"features": ["RSI", "MACD", "MACD_hist", "Signal_Line", "ATR", "Volatility", "NATR", "MOM", "ROC", "ADX", "PLUS_DI", "MINUS_DI", "OBV", "BB_upper", "BB_lower", "Price_to_EMA50", "EMA_ratio"]}
